@@ -1,2 +1,2 @@
 # Cereal-SQL
-Nutrtitional analysis on various cereal brand--SQL 
+Nutrtitional analysis on various cereal brands--SQL 
